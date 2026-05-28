@@ -1,0 +1,10 @@
+{
+  "useMarkdownLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "attachmentFolderPath": "inbox",
+  "showUnsupportedFiles": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false
+}
