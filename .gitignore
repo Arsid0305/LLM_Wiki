@@ -8,3 +8,10 @@ build/
 *.log
 npm-debug.log*
 .supabase/
+
+# Obsidian — личное состояние, не коммитить
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.trash/
+.obsidian/plugins/
