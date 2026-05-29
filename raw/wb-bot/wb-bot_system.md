@@ -1,4 +1,4 @@
-# raw/wb-bot/system.md
+# raw/wb-bot/wb-bot_system.md
 
 _Источник: arsid0305/wb-bot — SYSTEM.md_
 _Скопировано: 2026-05-28_

@@ -1,4 +1,4 @@
-# raw/ai_os/bugs.md
+# raw/ai_os/ai-os_bugs.md
 
 _Источник: arsid0305/ai_os — MEMORY/tasks/bugs.md_
 _Скопировано: 2026-05-28_

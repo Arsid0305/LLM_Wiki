@@ -1,4 +1,4 @@
-# raw/template/adapter_claude.md
+# raw/template/template_adapter-claude.md
 
 _Источник: arsid0305/template — adapters/CLAUDE.md_
 _Скопировано: 2026-05-28_

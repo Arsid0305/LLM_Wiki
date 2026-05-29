@@ -1,4 +1,4 @@
-# raw/kino-app/system.md
+# raw/kino-app/kino-app_system.md
 
 _Источник: arsid0305/kino-app — README.md_
 _Скопировано: 2026-05-28_

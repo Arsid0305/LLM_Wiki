@@ -1,4 +1,4 @@
-# raw/ai_os/lessons.md
+# raw/ai_os/ai-os_lessons.md
 
 _Источник: arsid0305/ai_os — MEMORY/lessons/lessons.md_
 _Скопировано: 2026-05-28_

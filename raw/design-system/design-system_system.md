@@ -1,4 +1,4 @@
-# raw/design-system/system.md
+# raw/design-system/design-system_system.md
 
 _Источник: arsid0305/design-system — README.md_
 _Скопировано: 2026-05-28_

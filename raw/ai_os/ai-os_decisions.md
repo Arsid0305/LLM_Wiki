@@ -1,4 +1,4 @@
-# raw/ai_os/decisions.md
+# raw/ai_os/ai-os_decisions.md
 
 _Источник: arsid0305/ai_os — MEMORY/tasks/decisions.md_
 _Скопировано: 2026-05-28_

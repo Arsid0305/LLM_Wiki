@@ -1,4 +1,4 @@
-# raw/technical-language/system.md
+# raw/technical-language/technical-language_system.md
 
 _Источник: arsid0305/technical-language — README.md_
 _Скопировано: 2026-05-28_

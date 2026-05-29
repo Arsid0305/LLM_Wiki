@@ -1,4 +1,4 @@
-# raw/template/system.md
+# raw/template/template_system.md
 
 _Источник: arsid0305/template — SYSTEM.md_
 _Скопировано: 2026-05-28_
